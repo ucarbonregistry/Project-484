@@ -31,5 +31,24 @@ based thermal powerplants.
 
 Since the project activity generates electricity through wind and solar energy, a clean renewable
 energy source it will not cause any negative impact on the environment and thereby contributes to
-climate change mitigation efforts
+climate change mitigation efforts.
+___________
+ISSUANCE DATE: 28/06/2025
+
+QTY: 12478
+
+MP-01: 01/05/2023-31/12-2024
+________________
+Serial Number: 0001-000001-005344-UCR-CoU-IN-484-01052023-31122023
+
+Vintage Year: 2023
+
+Quantity: 5344
+______________
+Serial Number: 0001-005345-012478-UCR-CoU-IN-484-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 7134
+_________________
 
